@@ -10,3 +10,4 @@ Admin is the only one person who is having one paricular user name and password.
 
 Here we are using 3 databases.
 First one for storing customer details. Second one for storing product deatils. Third one for maintaing the order details of customer.
+Give correct database to access the details in database.
